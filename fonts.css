@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'Open Sans';
+    src: url(fonts/OpenSans/OpenSans-Bold.ttf) format('truetype-aat'),
+    url(fonts/OpenSans/OpenSans-Bold.ttf) format('truetype-aat')
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url(fonts/OpenSans/OpenSans-BoldItalic.ttf) format('truetype-aat'),
+    url(fonts/OpenSans/OpenSans-BoldItalic.ttf) format('truetype-aat')
+}
+
+@font-face {
+    font-family: 'Open Sans ExtraBold';
+    src: url(fonts/OpenSans/OpenSans-ExtraBold.ttf) format('truetype-aat'),
+    url(fonts/OpenSans/OpenSans-ExtraBold.ttf) format('truetype-aat')
+}
+
+@font-face {
+    font-family: 'Open Sans ExtraBold';
+    src: url(fonts/OpenSans/OpenSans-ExtraBoldItalic.ttf) format('truetype-aat'),
+    url(fonts/OpenSans/OpenSans-ExtraBoldItalic.ttf) format('truetype-aat')
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url(fonts/OpenSans/OpenSans-Italic.ttf) format('truetype-aat'),
+    url(fonts/OpenSans/OpenSans-Italic.ttf) format('truetype-aat')
+}
+
+@font-face {
+    font-family: 'Open Sans Light';
+    src: url(fonts/OpenSans/OpenSans-Light.ttf) format('truetype-aat'),
+    url(fonts/OpenSans/OpenSans-Light.ttf) format('truetype-aat')
+}
+
+@font-face {
+    font-family: 'Open Sans Light';
+    src: url(fonts/OpenSans/OpenSans-LightItalic.ttf) format('truetype-aat'),
+    url(fonts/OpenSans/OpenSans-LightItalic.ttf) format('truetype-aat')
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url(fonts/OpenSans/OpenSans-Regular.ttf) format('truetype-aat'),
+    url(fonts/OpenSans/OpenSans-Regular.ttf) format('truetype-aat')
+}
+
+@font-face {
+    font-family: 'Open Sans Semibold';
+    src: url(fonts/OpenSans/OpenSans-Semibold.ttf) format('truetype-aat'),
+    url(fonts/OpenSans/OpenSans-Semibold.ttf) format('truetype-aat')
+}
+
+@font-face {
+    font-family: 'Open Sans Semibold';
+    src: url(fonts/OpenSans/OpenSans-SemiboldItalic.ttf) format('truetype-aat'),
+    url(fonts/OpenSans/OpenSans-SemiboldItalic.ttf) format('truetype-aat')
+}
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImZvbnRzLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxXQUFXLGtDQUFrQyx5SUFBeUksQ0FBQyxXQUFXLDJCQUEyQiwySUFBMkksQ0FBQyxXQUFXLGtDQUFrQyxxSUFBcUksQ0FBQyxXQUFXLDJCQUEyQix1SUFBdUksQ0FBQyIsImZpbGUiOiJmb250cy5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyJAZm9udC1mYWNle2ZvbnQtZmFtaWx5OidOZW8gU2FucyBQcm8gTWVkaXVtJztzcmM6dXJsKGZvbnRzL05lb1NhbnNQcm8vTmVvU2Fuc1Byby1NZWRpdW0udHRmKSBmb3JtYXQoJ3RydWV0eXBlLWFhdCcpLHVybChmb250cy9OZW9TYW5zUHJvL05lb1NhbnNQcm8tTWVkaXVtLnR0ZikgZm9ybWF0KCd0cnVldHlwZS1hYXQnKX1AZm9udC1mYWNle2ZvbnQtZmFtaWx5OidOZW8gU2FucyBQcm8nO3NyYzp1cmwoZm9udHMvTmVvU2Fuc1Byby9OZW9TYW5zUHJvLVJlZ3VsYXIudHRmKSBmb3JtYXQoJ3RydWV0eXBlLWFhdCcpLHVybChmb250cy9OZW9TYW5zUHJvL05lb1NhbnNQcm8tUmVndWxhci50dGYpIGZvcm1hdCgndHJ1ZXR5cGUtYWF0Jyl9QGZvbnQtZmFjZXtmb250LWZhbWlseTonRnJhbmNrZXIgQ1lSIE1lZGl1bSc7c3JjOnVybChmb250cy9GcmFuY2tlckNZUi9GcmFuY2tlckNZUi1NZWRpdW0ub3RmKSBmb3JtYXQoJ29wZW50eXBlJyksdXJsKGZvbnRzL0ZyYW5ja2VyQ1lSL0ZyYW5ja2VyQ1lSLU1lZGl1bS5vdGYpIGZvcm1hdCgnb3BlbnR5cGUnKX1AZm9udC1mYWNle2ZvbnQtZmFtaWx5OidGcmFuY2tlciBDWVInO3NyYzp1cmwoZm9udHMvRnJhbmNrZXJDWVIvRnJhbmNrZXJDWVItUmVndWxhci5vdGYpIGZvcm1hdCgnb3BlbnR5cGUnKSx1cmwoZm9udHMvRnJhbmNrZXJDWVIvRnJhbmNrZXJDWVItUmVndWxhci5vdGYpIGZvcm1hdCgnb3BlbnR5cGUnKX0iXX0= */
